@@ -1,0 +1,16 @@
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica 3\Practica-3\bin\Debug\net5.0\Practica-3.exe
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica 3\Practica-3\bin\Debug\net5.0\Practica-3.deps.json
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica 3\Practica-3\bin\Debug\net5.0\Practica-3.runtimeconfig.json
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica 3\Practica-3\bin\Debug\net5.0\Practica-3.runtimeconfig.dev.json
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica 3\Practica-3\bin\Debug\net5.0\Practica-3.dll
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica 3\Practica-3\bin\Debug\net5.0\ref\Practica-3.dll
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica 3\Practica-3\bin\Debug\net5.0\Practica-3.pdb
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica 3\Practica-3\obj\Debug\net5.0\Practica-3.csprojAssemblyReference.cache
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica 3\Practica-3\obj\Debug\net5.0\Practica-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica 3\Practica-3\obj\Debug\net5.0\Practica-3.AssemblyInfoInputs.cache
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica 3\Practica-3\obj\Debug\net5.0\Practica-3.AssemblyInfo.cs
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica 3\Practica-3\obj\Debug\net5.0\Practica-3.csproj.CoreCompileInputs.cache
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica 3\Practica-3\obj\Debug\net5.0\Practica-3.dll
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica 3\Practica-3\obj\Debug\net5.0\ref\Practica-3.dll
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica 3\Practica-3\obj\Debug\net5.0\Practica-3.pdb
+C:\Users\unknown\Desktop\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\Practica 3\Practica-3\obj\Debug\net5.0\Practica-3.genruntimeconfig.cache
