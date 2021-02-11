@@ -59,7 +59,7 @@ namespace Practica_3
                 #region ejercicio3
                 
                 case 3: int a=0; 
-                        for (a = 1; a < 100; a++)
+                        for (a = 10*10; a < 120; a++)
                         {
                         if (a % 2 == 0)
                         {

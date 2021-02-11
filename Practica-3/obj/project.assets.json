@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\unknown\\Desktop\\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\\Practica 3\\Practica-3\\Practica-3.csproj",
+      "projectUniqueName": "C:\\Users\\unknown\\Desktop\\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\\Practica3\\Practica-3\\Practica-3.csproj",
       "projectName": "Practica-3",
-      "projectPath": "C:\\Users\\unknown\\Desktop\\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\\Practica 3\\Practica-3\\Practica-3.csproj",
+      "projectPath": "C:\\Users\\unknown\\Desktop\\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\\Practica3\\Practica-3\\Practica-3.csproj",
       "packagesPath": "C:\\Users\\unknown\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\unknown\\Desktop\\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\\Practica 3\\Practica-3\\obj\\",
+      "outputPath": "C:\\Users\\unknown\\Desktop\\Fundamentos de programación-2021-C-1-Miguel Liceares Moreta Rodriguez\\Practica3\\Practica-3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\unknown\\AppData\\Roaming\\NuGet\\NuGet.Config"
