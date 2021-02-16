@@ -2,7 +2,7 @@
 
 namespace cajero
 {
- 
+
     public class Cajero
     {
         #region variables
