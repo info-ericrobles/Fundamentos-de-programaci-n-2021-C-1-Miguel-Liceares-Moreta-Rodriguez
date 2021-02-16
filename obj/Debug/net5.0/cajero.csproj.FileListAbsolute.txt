@@ -1,0 +1,48 @@
+C:\Users\unknown\Desktop\cajero\bin\Debug\net5.0\cajero.exe
+C:\Users\unknown\Desktop\cajero\bin\Debug\net5.0\cajero.deps.json
+C:\Users\unknown\Desktop\cajero\bin\Debug\net5.0\cajero.runtimeconfig.json
+C:\Users\unknown\Desktop\cajero\bin\Debug\net5.0\cajero.runtimeconfig.dev.json
+C:\Users\unknown\Desktop\cajero\bin\Debug\net5.0\cajero.dll
+C:\Users\unknown\Desktop\cajero\bin\Debug\net5.0\ref\cajero.dll
+C:\Users\unknown\Desktop\cajero\bin\Debug\net5.0\cajero.pdb
+C:\Users\unknown\Desktop\cajero\obj\Debug\net5.0\cajero.csprojAssemblyReference.cache
+C:\Users\unknown\Desktop\cajero\obj\Debug\net5.0\cajero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unknown\Desktop\cajero\obj\Debug\net5.0\cajero.AssemblyInfoInputs.cache
+C:\Users\unknown\Desktop\cajero\obj\Debug\net5.0\cajero.AssemblyInfo.cs
+C:\Users\unknown\Desktop\cajero\obj\Debug\net5.0\cajero.csproj.CoreCompileInputs.cache
+C:\Users\unknown\Desktop\cajero\obj\Debug\net5.0\cajero.dll
+C:\Users\unknown\Desktop\cajero\obj\Debug\net5.0\ref\cajero.dll
+C:\Users\unknown\Desktop\cajero\obj\Debug\net5.0\cajero.pdb
+C:\Users\unknown\Desktop\cajero\obj\Debug\net5.0\cajero.genruntimeconfig.cache
+C:\Users\unknown\Desktop\cajero - copia\bin\Debug\net5.0\cajero.exe
+C:\Users\unknown\Desktop\cajero - copia\bin\Debug\net5.0\cajero.deps.json
+C:\Users\unknown\Desktop\cajero - copia\bin\Debug\net5.0\cajero.runtimeconfig.json
+C:\Users\unknown\Desktop\cajero - copia\bin\Debug\net5.0\cajero.runtimeconfig.dev.json
+C:\Users\unknown\Desktop\cajero - copia\bin\Debug\net5.0\cajero.dll
+C:\Users\unknown\Desktop\cajero - copia\bin\Debug\net5.0\ref\cajero.dll
+C:\Users\unknown\Desktop\cajero - copia\bin\Debug\net5.0\cajero.pdb
+C:\Users\unknown\Desktop\cajero - copia\obj\Debug\net5.0\cajero.csprojAssemblyReference.cache
+C:\Users\unknown\Desktop\cajero - copia\obj\Debug\net5.0\cajero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unknown\Desktop\cajero - copia\obj\Debug\net5.0\cajero.AssemblyInfoInputs.cache
+C:\Users\unknown\Desktop\cajero - copia\obj\Debug\net5.0\cajero.AssemblyInfo.cs
+C:\Users\unknown\Desktop\cajero - copia\obj\Debug\net5.0\cajero.csproj.CoreCompileInputs.cache
+C:\Users\unknown\Desktop\cajero - copia\obj\Debug\net5.0\cajero.dll
+C:\Users\unknown\Desktop\cajero - copia\obj\Debug\net5.0\ref\cajero.dll
+C:\Users\unknown\Desktop\cajero - copia\obj\Debug\net5.0\cajero.pdb
+C:\Users\unknown\Desktop\cajero - copia\obj\Debug\net5.0\cajero.genruntimeconfig.cache
+C:\Users\unknown\Desktop\examen\bin\Debug\net5.0\cajero.exe
+C:\Users\unknown\Desktop\examen\bin\Debug\net5.0\cajero.deps.json
+C:\Users\unknown\Desktop\examen\bin\Debug\net5.0\cajero.runtimeconfig.json
+C:\Users\unknown\Desktop\examen\bin\Debug\net5.0\cajero.runtimeconfig.dev.json
+C:\Users\unknown\Desktop\examen\bin\Debug\net5.0\cajero.dll
+C:\Users\unknown\Desktop\examen\bin\Debug\net5.0\ref\cajero.dll
+C:\Users\unknown\Desktop\examen\bin\Debug\net5.0\cajero.pdb
+C:\Users\unknown\Desktop\examen\obj\Debug\net5.0\cajero.csprojAssemblyReference.cache
+C:\Users\unknown\Desktop\examen\obj\Debug\net5.0\cajero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unknown\Desktop\examen\obj\Debug\net5.0\cajero.AssemblyInfoInputs.cache
+C:\Users\unknown\Desktop\examen\obj\Debug\net5.0\cajero.AssemblyInfo.cs
+C:\Users\unknown\Desktop\examen\obj\Debug\net5.0\cajero.csproj.CoreCompileInputs.cache
+C:\Users\unknown\Desktop\examen\obj\Debug\net5.0\cajero.dll
+C:\Users\unknown\Desktop\examen\obj\Debug\net5.0\ref\cajero.dll
+C:\Users\unknown\Desktop\examen\obj\Debug\net5.0\cajero.pdb
+C:\Users\unknown\Desktop\examen\obj\Debug\net5.0\cajero.genruntimeconfig.cache
